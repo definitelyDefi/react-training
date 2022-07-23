@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8f8a7057e88806f8383f",
+    "revision": "63b2de194abbd219fa94",
     "url": "/react-training/static/css/main.07e39df0.chunk.css"
   },
   {
-    "revision": "8f8a7057e88806f8383f",
-    "url": "/react-training/static/js/main.8f8a7057.chunk.js"
+    "revision": "63b2de194abbd219fa94",
+    "url": "/react-training/static/js/main.63b2de19.chunk.js"
   },
   {
     "revision": "6bbadf14ae4317ae1f49",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/react-training/static/media/search.9aef2836.svg"
   },
   {
-    "revision": "b4b249733992c6e843ae0b9eca9a46cc",
+    "revision": "10274816f425ab66afb4f12d3ab37429",
     "url": "/react-training/index.html"
   }
 ];
