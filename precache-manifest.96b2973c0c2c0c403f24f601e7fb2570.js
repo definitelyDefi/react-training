@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "63b2de194abbd219fa94",
-    "url": "/react-training/static/css/main.07e39df0.chunk.css"
+    "revision": "8eacd39286b35b643a79",
+    "url": "/react-training/static/css/main.28ef7d9a.chunk.css"
   },
   {
-    "revision": "63b2de194abbd219fa94",
-    "url": "/react-training/static/js/main.63b2de19.chunk.js"
+    "revision": "8eacd39286b35b643a79",
+    "url": "/react-training/static/js/main.8eacd392.chunk.js"
   },
   {
     "revision": "6bbadf14ae4317ae1f49",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/react-training/static/js/reactPlayerPreview.fb8a448d.chunk.js"
   },
   {
-    "revision": "90c530a7dfa5f92ba8b6",
-    "url": "/react-training/static/css/14.629c3f56.chunk.css"
+    "revision": "b6fd0d205d8dc64ed28b",
+    "url": "/react-training/static/css/14.fadd1c35.chunk.css"
   },
   {
-    "revision": "90c530a7dfa5f92ba8b6",
-    "url": "/react-training/static/js/14.90c530a7.chunk.js"
+    "revision": "b6fd0d205d8dc64ed28b",
+    "url": "/react-training/static/js/14.b6fd0d20.chunk.js"
   },
   {
     "revision": "56ae5fbc7f915a8027cd",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/react-training/static/media/search.9aef2836.svg"
   },
   {
-    "revision": "10274816f425ab66afb4f12d3ab37429",
+    "revision": "4029fe57a99bf665588914b18161acd5",
     "url": "/react-training/index.html"
   }
 ];
