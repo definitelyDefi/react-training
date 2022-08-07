@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "951de321866e4b0b36ff",
-    "url": "/react-training/static/css/main.b2f685d1.chunk.css"
+    "revision": "7bd7e889f1f7802b1e66",
+    "url": "/react-training/static/css/main.5fbed1f0.chunk.css"
   },
   {
-    "revision": "951de321866e4b0b36ff",
-    "url": "/react-training/static/js/main.951de321.chunk.js"
+    "revision": "7bd7e889f1f7802b1e66",
+    "url": "/react-training/static/js/main.7bd7e889.chunk.js"
   },
   {
     "revision": "413f721c66762b139d45",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/react-training/static/js/reactPlayerPreview.cc7e4567.chunk.js"
   },
   {
-    "revision": "a041f37577df82e5fcd7",
+    "revision": "977a5ec42153a74cbe15",
     "url": "/react-training/static/css/14.fb64d810.chunk.css"
   },
   {
-    "revision": "a041f37577df82e5fcd7",
-    "url": "/react-training/static/js/14.a041f375.chunk.js"
+    "revision": "977a5ec42153a74cbe15",
+    "url": "/react-training/static/js/14.977a5ec4.chunk.js"
   },
   {
     "revision": "125a4fb25c41d6cdd86b",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/react-training/static/media/pic.533c381e.png"
   },
   {
-    "revision": "56a0c2dcb2a17d40ab2dff452b0a1c14",
+    "revision": "8e8581a1d7ec18a32e621977e5d25753",
     "url": "/react-training/index.html"
   }
 ];
