@@ -1,7 +1,7 @@
 {
   "main.css": "/react-training/static/css/main.5fbed1f0.chunk.css",
-  "main.js": "/react-training/static/js/main.7bd7e889.chunk.js",
-  "main.js.map": "/react-training/static/js/main.7bd7e889.chunk.js.map",
+  "main.js": "/react-training/static/js/main.727419bf.chunk.js",
+  "main.js.map": "/react-training/static/js/main.727419bf.chunk.js.map",
   "reactPlayerYouTube.js": "/react-training/static/js/reactPlayerYouTube.413f721c.chunk.js",
   "reactPlayerYouTube.js.map": "/react-training/static/js/reactPlayerYouTube.413f721c.chunk.js.map",
   "reactPlayerSoundCloud.js": "/react-training/static/js/reactPlayerSoundCloud.213a88c4.chunk.js",
@@ -35,9 +35,9 @@
   "runtime~main.js.map": "/react-training/static/js/runtime~main.125a4fb2.js.map",
   "static/media/animeSearch.module.css": "/react-training/static/media/search.9aef2836.svg",
   "static/media/pic.png": "/react-training/static/media/pic.533c381e.png",
-  "static/css/14.fb64d810.chunk.css.map": "/react-training/static/css/14.fb64d810.chunk.css.map",
   "static/css/main.5fbed1f0.chunk.css.map": "/react-training/static/css/main.5fbed1f0.chunk.css.map",
+  "static/css/14.fb64d810.chunk.css.map": "/react-training/static/css/14.fb64d810.chunk.css.map",
   "index.html": "/react-training/index.html",
-  "precache-manifest.d6b02a030b02211f23c03cddb8e64a53.js": "/react-training/precache-manifest.d6b02a030b02211f23c03cddb8e64a53.js",
+  "precache-manifest.2517dab48da3ee7b1da70e45e5cde283.js": "/react-training/precache-manifest.2517dab48da3ee7b1da70e45e5cde283.js",
   "service-worker.js": "/react-training/service-worker.js"
 }
